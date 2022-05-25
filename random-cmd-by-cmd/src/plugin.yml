@@ -1,0 +1,6 @@
+name: random-cmd-by-cmd
+main: me.sturm.rcbc.RcbcPlugin
+version: 1.0
+api-version: 1.13
+author: sturm
+softdepend: [PlaceholderAPI]

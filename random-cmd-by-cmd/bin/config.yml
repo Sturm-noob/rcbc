@@ -1,0 +1,17 @@
+
+#права на команды: 
+#rcbc.команда
+
+mycmd:
+  "tp %player% 0 0 0": 
+    player: false
+    chance: 0.25
+  "me //todo//": 
+    player: true
+    chance: 0.25
+  "gamemode creative": 
+    player: true
+    chance: 0.25
+  "gamerule doDaylightCycle false": 
+    player: false
+    chance: 0.25
