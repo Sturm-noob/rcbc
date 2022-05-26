@@ -1,5 +1,5 @@
 # rcbc
-bukkit 1.16.5 plugin  
+spigot 1.16.5 plugin  
   
 скачать - https://disk.yandex.ru/d/Z_bfHvafA9x12Q  
   
